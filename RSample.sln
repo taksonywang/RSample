@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text1", "text1\text1.csproj", "{1C524B5F-FA8F-4FE4-ADE5-29A1526BA059}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSample", "text1\RSample.csproj", "{1C524B5F-FA8F-4FE4-ADE5-29A1526BA059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
